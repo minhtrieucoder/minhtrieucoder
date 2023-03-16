@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p>Welcome to my Git! </br> I'm Minh Trieu, Backend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
 
-[![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&height=&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
+[![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&height=40&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
 [![GitHub minhtrieucoder](https://img.shields.io/badge/-minhtrieucoder-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/minhtrieucoder)](https://github.com/minhtrieucoder)
 
 
