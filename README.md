@@ -95,4 +95,3 @@ const minhtrieu = {
 	<img width="200" height="150" src="http://imagesfb.tintuc.vn/upload/images/quangnam/20170424/thanh-dia-my-son-21364.jpg" />
 	<img width="200" height="150" src="http://imagesfb.tintuc.vn/upload/images/quangnam/20170424/tuong-dai-me-thu-21384.jpg" />
 </p>
-------------
