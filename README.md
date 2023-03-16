@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
 [![GitHub minhtrieucoder](https://img.shields.io/badge/-minhtrieucoder-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/minhtrieucoder)](https://github.com/minhtrieucoder)
 [![Facebook: tr.minhtrieuu](https://img.shields.io/badge/-tr.minhtrieuu-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/tr.minhtrieuu)](https://www.facebook.com/tr.minhtrieuu)
-[![Resume: TruongMinhTrieu](https://img.shields.io/badge/Resume-TruongMinhTrieu-blue?style=flat-square&logo=Google-Drive&logoColor=yellowgreen&link=https://drive.google.com/file/d/1153_aYHXLG6TCmw2fKzJy1UFn122T7xm/view)](https://drive.google.com/file/d/1153_aYHXLG6TCmw2fKzJy1UFn122T7xm/view)
+[![Resume: TruongMinhTrieu](https://img.shields.io/badge/Resume-TruongMinhTrieu-blue?style=flat-square&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1153_aYHXLG6TCmw2fKzJy1UFn122T7xm/view)](https://drive.google.com/file/d/1153_aYHXLG6TCmw2fKzJy1UFn122T7xm/view)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
