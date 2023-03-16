@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 const minhtrieu = {
   pronouns: "he" | "him",
   code: [.NET, C#, Javascript, HTML, CSS, SQL],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [ASP.NET, Entity Framework, Windows Forms, Swagger UI, Postman, Microsoft SQL Server],
+  architecture: ["RESTful APIs", "Model - View - Controller"],
   education: {
                         university: "HCMC University of Technology and Education – HCMUTE",
                         class: "21110CL2",
@@ -83,41 +83,6 @@ const minhtrieu = {
     <br>
     
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>️🇻🇳🇻🇳🇻🇳 Projects 🇻🇳🇻🇳🇻🇳</b></td>
-      <td><b>🌟 Stars 🌟</b></td>
-      <td><b>🗂 Forks 🗂</b></td>
-      <td><b>🕹 Issues 🕹</b></td>
-      <td><b>📥 Pull requests 📥</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><a href="https://github.com/minhtrieucoder/Career_fullstack.git"><b>Career website (Personal self-study project)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/minhtrieucoder/Career_fullstack?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/minhtrieucoder/Career_fullstack?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/minhtrieucoder/Career_fullstack?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/minhtrieucoder/Career_fullstack?style=flat-square&labelColor=343b41"/></td>
-    </tr>    
-    <tr>
-        <td><a href="https://github.com/minhtrieucoder/DataSort.git"><b>Tool DataSort (Personal self-study project)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/minhtrieucoder/DataSort?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/minhtrieucoder/DataSort?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/minhtrieucoder/DataSort?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/minhtrieucoder/DataSort?style=flat-square&labelColor=343b41"/></td>
-    </tr>    
-    <tr>
-        <td><a href="https://github.com/minhtrieucoder/Graph-Analyzer.git"><b>Tool Graph-Analyzer (Personal self-study project)</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/minhtrieucoder/Graph-Analyzer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/minhtrieucoder/Graph-Analyzer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/minhtrieucoder/Graph-Analyzer?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/minhtrieucoder/Graph-Analyzer?style=flat-square&labelColor=343b41"/></td>
-    </tr>      
-  </tbody>
-</table>
 
 <h3>Welcome to <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> Quang Nam - Viet Nam! </h3>
 <p>
@@ -130,20 +95,4 @@ const minhtrieu = {
 	<img width="200" height="150" src="http://imagesfb.tintuc.vn/upload/images/quangnam/20170424/thanh-dia-my-son-21364.jpg" />
 	<img width="200" height="150" src="http://imagesfb.tintuc.vn/upload/images/quangnam/20170424/tuong-dai-me-thu-21384.jpg" />
 </p>
-<h3>Where to find me</h3>
-<p>
-	<a href="https://github.com/minhtrieucoder" target="_blank">
-		<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-	</a> 
-	<a href="https://www.linkedin.com/in/minhtrieuu/" target="_blank">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a> 
-	<a href="https://www.facebook.com/vinhlq.it" target="_blank">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/facebook-%232851A3.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-	</a>
-	<a href="https://62c92ffbac1c7d3ab3874f32--vinh-info.netlify.app/?fbclid=IwAR3o4pSVLBs1LLyO-GS6Fe3UGbsVOE8UQphjICn0wTBNyLQJH3NdxSyti-E" target="_blank">
-		<img alt="Portfolio" src="https://img.shields.io/badge/vinh-portfolio-brightgreen" />
-	</a>
-</p>
-
 ------------
