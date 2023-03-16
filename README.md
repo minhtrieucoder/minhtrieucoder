@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<p>Welcome to my Git! </br> I'm Minh Trieu, Backend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
+<p>Welcome to my Git! </br> I'm MinhTrieu, Backend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
 
 [![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
 [![GitHub minhtrieucoder](https://img.shields.io/badge/-minhtrieucoder-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/minhtrieucoder)](https://github.com/minhtrieucoder)
@@ -84,7 +84,7 @@ const minhtrieu = {
     
 </p>
 
-<h3>Welcome to <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> Quang Nam - Viet Nam! </h3>
+<h3>Welcome to <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> Quangnam - Vietnam! </h3>
 <p>
 	<img width="200" height="150" src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-quang-nam-5.jpg?tr=dpr-2,w-675" />
 	<img width="200" height="150" src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-quang-nam-10-1024x538.jpg?tr=dpr-2,w-675" />
