@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
+
+
+
+<p>Welcome to my Git! </br> I'm Minh Trieu, Backend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
+
 [![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
 [![GitHub minhtrieucoder](https://img.shields.io/badge/-minhtrieucoder-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/minhtrieucoder)](https://github.com/minhtrieucoder)
 
@@ -37,34 +44,6 @@ const minhtrieu = {
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> <em><b>Pressure can burst a pipe, or pressure can make a diamond. </b></em>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
-
-
-<p>Welcome to my Git! </br> I'm Minh Trieu, Backend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
-    
-    [![GitHub minhtrieucoder](https://img.shields.io/badge/-minhtrieucoder-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/minhtrieucoder)](https://github.com/minhtrieucoder)
-    [![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
-    
-    
-    ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-    
-    ```javascript
-    const minhtrieu = {
-      pronouns: "he" | "him",
-      code: [.NET, C#, Javascript, HTML, CSS, SQL],
-      tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-      architecture: ["microservices", "event-driven", "design system pattern"],
-      education: {
-                            university: "HCMC University of Technology and Education – HCMUTE",
-                            class: "21110CL2",
-                            studentID: "21110326",
-                            major: IT (Software Engineering)
-                          },
-    }
-    ```
-    
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> <em><b>"Pressure can burst a pipe, or pressure can make a diamond."</b></em>
-    
 <h3>Things I code with</h3>
 <p>
     <img alt=".NET 6.0" src="https://img.shields.io/badge/-.NET_6.0-5C2D91?style=flat-square&logo=.net&logoColor=white&color=E12345" />
