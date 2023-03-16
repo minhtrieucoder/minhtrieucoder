@@ -126,7 +126,6 @@ const minhtrieu = {
 	<img width="200" height="150" src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-quang-nam-4.jpg?tr=dpr-2,w-675" />
 	<img width="200" height="150" src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-quang-nam-1.jpg?tr=dpr-2,w-675" />
 	<img width="200" height="150" src="https://kenhhomestay.com/wp-content/uploads/2019/04/%C4%91%E1%BB%8Ba-%C4%91i%E1%BB%83m-ch%E1%BB%A5p-%E1%BA%A3nh-%C4%91%E1%BA%B9p-Qu%E1%BA%A3ng-Nam-2.jpg" />
-	<img width="200" height="150" src="https://kenhhomestay.com/wp-content/uploads/2019/04/%C4%91%E1%BB%8Ba-%C4%91i%E1%BB%83m-ch%E1%BB%A5p-%E1%BA%A3nh-%C4%91%E1%BA%B9p-Qu%E1%BA%A3ng-Nam-9.jpg" />
 	<img width="200" height="150" src="https://media.vneconomy.vn/w800/images/upload/2022/08/26/qnam.jpeg" />
 	<img width="200" height="150" src="http://imagesfb.tintuc.vn/upload/images/quangnam/20170424/thanh-dia-my-son-21364.jpg" />
 	<img width="200" height="150" src="http://imagesfb.tintuc.vn/upload/images/quangnam/20170424/tuong-dai-me-thu-21384.jpg" />
