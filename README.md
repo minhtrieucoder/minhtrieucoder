@@ -121,10 +121,15 @@ const minhtrieu = {
 
 <h3>Welcome to <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> Quang Nam - Viet Nam! </h3>
 <p>
-	<img width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/B%C6%B0u_%C4%91i%E1%BB%87n_S%C3%B3c_Tr%C4%83ng.jpg" /> 
-	<img width="200" src="https://vcdn1-dulich.vnecdn.net/2021/02/23/tuong-phat-nam-som-rong.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FOwxi2_K9VhTjLD06TpOSg" /> 
-	<img width="200" src="https://thamhiemmekong.com/wp-content/uploads/2020/05/cu-lao-dung-soc-trang.jpg" />
-	<img width="200" src="https://hilmedia.vn/wp-content/uploads/2021/07/Cu-Lao-Dung-1.jpg" />
+	<img width="200" height="150" src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-quang-nam-5.jpg?tr=dpr-2,w-675" />
+	<img width="200" height="150" src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-quang-nam-10-1024x538.jpg?tr=dpr-2,w-675" />
+	<img width="200" height="150" src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-quang-nam-4.jpg?tr=dpr-2,w-675" />
+	<img width="200" height="150" src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-quang-nam-1.jpg?tr=dpr-2,w-675" />
+	<img width="200" height="150" src="https://kenhhomestay.com/wp-content/uploads/2019/04/%C4%91%E1%BB%8Ba-%C4%91i%E1%BB%83m-ch%E1%BB%A5p-%E1%BA%A3nh-%C4%91%E1%BA%B9p-Qu%E1%BA%A3ng-Nam-2.jpg" />
+	<img width="200" height="150" src="https://kenhhomestay.com/wp-content/uploads/2019/04/%C4%91%E1%BB%8Ba-%C4%91i%E1%BB%83m-ch%E1%BB%A5p-%E1%BA%A3nh-%C4%91%E1%BA%B9p-Qu%E1%BA%A3ng-Nam-9.jpg" />
+	<img width="200" height="150" src="https://media.vneconomy.vn/w800/images/upload/2022/08/26/qnam.jpeg" />
+	<img width="200" height="150" src="http://imagesfb.tintuc.vn/upload/images/quangnam/20170424/thanh-dia-my-son-21364.jpg" />
+	<img width="200" height="150" src="http://imagesfb.tintuc.vn/upload/images/quangnam/20170424/tuong-dai-me-thu-21384.jpg" />
 </p>
 <h3>Where to find me</h3>
 <p>
