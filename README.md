@@ -14,7 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+[![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
+[![GitHub minhtrieucoder](https://img.shields.io/badge/-minhtrieucoder-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/minhtrieucoder)](https://github.com/minhtrieucoder)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const minhtrieu = {
+  pronouns: "he" | "him",
+  code: [.NET, C#, Javascript, HTML, CSS, SQL],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  education: {
+                        university: "HCMC University of Technology and Education – HCMUTE",
+                        class: "21110CL2",
+                        studentID: "21110326",
+                        major: IT (Software Engineering)
+                      },
+}
+```
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> <em><b>Pressure can burst a pipe, or pressure can make a diamond. </b></em>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
 
