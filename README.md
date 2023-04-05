@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h1>
+<h1><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hey! Nice to meet you.  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2></h1>
 
 
 
@@ -45,7 +45,7 @@ const minhtrieu = {
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> <em><b>Pressure can burst a pipe, or pressure can make a diamond. </b></em>
 
-<h3>Things I code with</h3>
+<h3>Things I work with</h3>
 <p>
     <img alt=".NET 6.0" src="https://img.shields.io/badge/-.NET_6.0-5C2D91?style=flat-square&logo=.net&logoColor=white&color=E12345" />
     <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
