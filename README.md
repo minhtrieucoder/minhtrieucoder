@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 <p>Welcome to my Git! </br> I'm MinhTrieu, Backend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
+[![Coding with mee](https://img.shields.io/badge/Coding%20with%20mee-red?style=flat-square&logo=GitHub&logoColor=white)](https://gist.github.com/minhtrieucoder)
 
 [![Coding: with mee](https://img.shields.io/badge/Coding%20with%20mee-red?style=flat-square&logo=GitHub&logoColor=white)](https://gist.github.com/minhtrieucoder)
 [![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
