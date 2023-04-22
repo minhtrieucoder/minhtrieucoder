@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p>Welcome to my Git! </br> I'm MinhTrieu, Backend developer from <img src="https://user-images.githubusercontent.com/70852643/205022108-d4ff07fe-cda6-48bd-83c0-85519708e889.png" width="17"/> <b>Ho Chi Minh City, Vietnam</b>. </p>
 
-[![Coding: with mee](https://img.shields.io/badge/Coding%20with%20mee-red?style=flat-square&logo=GitHub&logoColor=white)](https://gist.github.com/minhtrieucoder)
+[![Coding: with mee](https://img.shields.io/badge/Coding%20with%20mee-%20and%20my%20share%20codee-yellowgreen?style=flat-square&logo=GitHub&logoColor=white)](https://gist.github.com/minhtrieucoder) </br>
 [![Linkedin: minhtrieuu](https://img.shields.io/badge/-minhtrieuu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minhtrieuu/)](https://www.linkedin.com/in/minhtrieuu/)
-[![GitHub minhtrieucoder](https://img.shields.io/badge/-minhtrieucoder-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/minhtrieucoder)](https://github.com/minhtrieucoder)
+[![GitHub: minhtrieucoder](https://img.shields.io/badge/-minhtrieucoder-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/minhtrieucoder)](https://github.com/minhtrieucoder)
 [![Resume: TruongMinhTrieu](https://img.shields.io/badge/Resume-TruongMinhTrieu-red?style=flat-square&logo=Google-Drive&logoColor=white&link=https://drive.google.com/file/d/1153_aYHXLG6TCmw2fKzJy1UFn122T7xm/view)](https://drive.google.com/file/d/1153_aYHXLG6TCmw2fKzJy1UFn122T7xm/view)
 
 
